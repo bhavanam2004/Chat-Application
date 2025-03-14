@@ -23,3 +23,6 @@ Cross-platform compatibility ensures that users can access chat applications fro
 The future of chat applications is evolving with advancements in AI, blockchain, and augmented reality (AR). AI-powered chatbots and virtual assistants are enhancing customer support and business interactions. Blockchain technology is being explored for decentralized messaging platforms to improve security and transparency. Augmented reality features could soon bring immersive communication experiences, allowing users to interact in virtual environments.  
 
 In conclusion, chat applications have become indispensable in modern communication, offering real-time, secure, and efficient messaging solutions. As technology continues to advance, these applications will continue to evolve, making communication more seamless, intelligent, and secure for users worldwide.
+
+![Image](https://github.com/user-attachments/assets/0a611579-6ba5-46b2-9e18-1c77de94f197)
+
