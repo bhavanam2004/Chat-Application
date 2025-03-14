@@ -56,3 +56,5 @@ This Real-Time Chat Application is a powerful and scalable messaging solution th
 support, or social interactions, it provides a reliable and feature-rich environment for real-time communication. The project is open-source under the MIT 
 
 License, encouraging contributions from developers to enhance and expand its capabilities
+
+![Image](https://github.com/user-attachments/assets/0d37fa9d-29f6-4510-9a88-e3d5a976cb0a)
